@@ -12,7 +12,7 @@ function HeroSection() {
           <div class="bg"></div>
           <div class="container landing-flex">
             <p
-              className="fs-1 fw-bolder"
+              className="fs-1 fw-bolder  "
               style={{
                 letterSpacing: "-2px",
                 lineHeight: "calc(2.5rem + .5vw)",
@@ -22,7 +22,7 @@ function HeroSection() {
               You are not alone <br />
               You have peers...
             </p>
-            <p className="ms-1 opacity-75 fw-bold">
+            <p className="ms-1 opacity-75 fw-bolder">
               {" "}
               A platform for you to donate the books you don't need any more{" "}
               <br />
